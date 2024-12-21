@@ -33,7 +33,7 @@ $reviews_result = $conn->query($sql);
             <img src="Photo/Tabeya Name.png" alt="Logo">
         </div>
         <nav>
-            <a href="Home.html">HOME</a>
+            <a href="index.html">HOME</a>
             <a href="Menu.html">MENU</a>
             <a href="CaterReservation.html">CATER RESERVATION</a>
             <a href="GALLERY.html">GALLERY</a>
